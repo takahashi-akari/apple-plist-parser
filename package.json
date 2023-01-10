@@ -1,0 +1,32 @@
+{
+  "name": "apple-plist-parser",
+  "version": "0.0.3",
+  "description": "ApplePlistParser is a simple library to parse Apple plist files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakaitaka/apple-plist-parser.git"
+  },
+  "keywords": [
+    "plist",
+    "cocoapods",
+    "parser",
+    "apple",
+    "json"
+  ],
+  "author": "sakaitaka <hyise.71@gmail.com> (https://github.com/sakaitaka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakaitaka/apple-plist-parser/issues"
+  },
+  "homepage": "https://github.com/sakaitaka/apple-plist-parser#readme",
+  "dependencies": {
+    "plist": "^3.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
